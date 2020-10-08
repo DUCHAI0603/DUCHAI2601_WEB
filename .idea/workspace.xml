@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2375695b-c0da-4b2a-b7b2-7e23c15c8d6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/VNEXPRESS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +32,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/media" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Webstorm\media" />
       <recent name="C:\Webstorm\imgs" />
+      <recent name="C:\Webstorm\media" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,7 +52,9 @@
       <option name="presentableId" value="Default" />
       <updated>1602125494467</updated>
       <workItem from="1602125498048" duration="5333000" />
-      <workItem from="1602131124442" duration="1454000" />
+      <workItem from="1602131124442" duration="1892000" />
+      <workItem from="1602141865115" duration="135000" />
+      <workItem from="1602152562848" duration="3395000" />
     </task>
     <task id="LOCAL-00001" summary="demo up code">
       <created>1602131189607</created>
@@ -58,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602131189607</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="demo up code">
+      <created>1602132783322</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602132783322</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,17 +85,21 @@
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="412" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.688@0.0.1280.688" timestamp="1602130411092" />
-    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1602131187521">
+    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1602132781011">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
-    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1602131187521" />
+    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1602132781011" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1602126673256">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.688@0.0.1280.688" timestamp="1602126673256" />
-    <state x="232" y="77" key="Vcs.Push.Dialog.v2" timestamp="1602132772562">
+    <state x="232" y="77" key="Vcs.Push.Dialog.v2" timestamp="1602132783877">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
-    <state x="232" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1602132772562" />
+    <state x="232" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1602132783877" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1602155349800">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.688@0.0.1280.688" timestamp="1602155349800" />
   </component>
 </project>
