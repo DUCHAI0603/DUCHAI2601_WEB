@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2375695b-c0da-4b2a-b7b2-7e23c15c8d6b" name="Default Changelist" comment="" />
+    <list default="true" id="2375695b-c0da-4b2a-b7b2-7e23c15c8d6b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iZqVpac7w4j3dJS7j8wEEPlqgt" />
   <component name="ProjectViewState">
@@ -43,20 +49,41 @@
       <option name="presentableId" value="Default" />
       <updated>1602125494467</updated>
       <workItem from="1602125498048" duration="5333000" />
+      <workItem from="1602131124442" duration="1454000" />
     </task>
+    <task id="LOCAL-00001" summary="demo up code">
+      <created>1602131189607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602131189607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="demo up code" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo up code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="146" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602130411092">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="412" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.688@0.0.1280.688" timestamp="1602130411092" />
+    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1602131187521">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1602131187521" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1602126673256">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.688@0.0.1280.688" timestamp="1602126673256" />
+    <state x="232" y="77" key="Vcs.Push.Dialog.v2" timestamp="1602132772562">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="232" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1602132772562" />
   </component>
 </project>
