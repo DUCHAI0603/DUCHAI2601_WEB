@@ -1,0 +1,60 @@
+*{
+
+}
+body{
+    background-color: #f2f2f2;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: normal;
+    /* 100-thin 300-light 400-nomal 500-media 600-semi-bold 700-bold 800-extra-blod 900-black */
+    font-family: 'Roboto', sans-serif;
+    color: #232323;
+}
+div{
+    width: 350px;/*Chiều rộng của khối */
+    height: 400px;
+    background-color: #ffffff;
+    /*border: 1px solid #333333;
+    /*border-top: 1px solid #333333;*/
+    /*border-right: 1px solid #333333;*/
+    /*border-bottom: 1px solid #333333;*/
+    /*border-left: 1px solid #333333;*/
+    box-shadow: 0 0 5px #aaaaaa; /*Bóng của viền */
+    border-radius: 6px; /*Cắt góc*/
+    margin: 15px 20px 25px 30px;/*Lấy theo chiều kim đồng hồ*/
+    /*
+    margin-top:15px;
+    margin-right:20px;
+    margin-bottom:25px;
+    margin-left:30px;
+     */
+    padding: 15px;/* Khoảng cách viền và nội dung*/
+    /*padding-top:15px;
+    padding-right:15px;
+    padding-bottom:15px;
+    padding-left:15px;*/
+    box-sizing: border-box;/*Không được vượt quá diện tích*/
+    text-align: center;/*Căn giữa*/
+    float: left;/*Đưa khối về một bên nào đó(right,left,none)*/
+}
+img{
+    float: left;
+    width: 100%;
+    height: auto;
+}
+div img{
+   width: 300px;
+    float: none;
+}
+#sp{
+    transition: all 300ms;/*Làm giảm thời gian thực hiện ảnh*/
+    /*ackground-color: green;*/
+}
+#sp:hover{/*Khi đưa chuột vào sẽ hiện lên màu*/
+    /*background-color: green;*/
+}
+#sp:hover{
+    /*transform: translate(100px,200px);*//*Đưa chuột vào hình ảnh sẽ sang chỗ khác*/
+    /*transform: rotate(360deg);/*Đưa chuột vào hình ảnh quay 360 độ*/
+    transform: scale(1.5);/*Đưa chuột vào hình ảnh phóng lên*/
+}

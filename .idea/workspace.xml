@@ -4,17 +4,15 @@
     <list default="true" id="2375695b-c0da-4b2a-b7b2-7e23c15c8d6b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/assi2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/boxmodel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/lab3.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/5x7FT-Tr-ng-M-u-X-m-G-ch-T-ng-M-u-S-c-nh.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/637376646528787695_F-H1_800x300.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/74789187373b4f265fef89df45ca0c52.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/Daicanamcam.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/ae922d41bb75915c350787e9adfcdbd1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sesion3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VNEXPRESS.html" beforeDir="false" afterPath="$PROJECT_DIR$/VNEXPRESS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,8 @@
       <workItem from="1602158278679" duration="997000" />
       <workItem from="1602314646103" duration="39000" />
       <workItem from="1602552885678" duration="10789000" />
-      <workItem from="1602682826566" duration="2920000" />
+      <workItem from="1602682826566" duration="3329000" />
+      <workItem from="1602725419419" duration="620000" />
     </task>
     <task id="LOCAL-00001" summary="demo up code">
       <created>1602131189607</created>
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602157895865</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Assi1">
+      <created>1602686145457</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602686145457</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,10 +127,10 @@
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="412" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.688@0.0.1280.688" timestamp="1602130411092" />
-    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1602157892183">
+    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1602686141746">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
-    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1602157892183" />
+    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1602686141746" />
     <state x="516" y="46" key="RollbackChangesDialog" timestamp="1602560277931">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
@@ -133,10 +139,10 @@
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.688@0.0.1280.688" timestamp="1602126673256" />
-    <state x="232" y="77" key="Vcs.Push.Dialog.v2" timestamp="1602157940070">
+    <state x="232" y="77" key="Vcs.Push.Dialog.v2" timestamp="1602686158553">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
-    <state x="232" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1602157940070" />
+    <state x="232" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1602686158553" />
     <state x="297" y="153" key="run.anything.popup" timestamp="1602155349800">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
