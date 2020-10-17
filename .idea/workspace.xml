@@ -3,17 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2375695b-c0da-4b2a-b7b2-7e23c15c8d6b" name="Default Changelist" comment="Assi1">
       <change afterPath="$PROJECT_DIR$/css/boxmodel2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/lab4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/swe1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/swe2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/swe3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/swe4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/swe5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/swe6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sesion4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/boxmodel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/boxmodel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lab4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lab4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +65,8 @@
       <workItem from="1602725419419" duration="7825000" />
       <workItem from="1602735492564" duration="366000" />
       <workItem from="1602737137210" duration="1147000" />
-      <workItem from="1602859761620" duration="5990000" />
+      <workItem from="1602859761620" duration="6852000" />
+      <workItem from="1602894079588" duration="2701000" />
     </task>
     <task id="LOCAL-00001" summary="demo up code">
       <created>1602131189607</created>
@@ -129,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602730698192</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Assi1">
+      <created>1602866200115</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602866200115</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,10 +147,10 @@
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="412" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.688@0.0.1280.688" timestamp="1602130411092" />
-    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1602730694210">
+    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1602866194508">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
-    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1602730694210" />
+    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1602866194508" />
     <state x="516" y="46" key="RollbackChangesDialog" timestamp="1602560277931">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
@@ -157,10 +159,10 @@
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.688@0.0.1280.688" timestamp="1602126673256" />
-    <state x="232" y="77" key="Vcs.Push.Dialog.v2" timestamp="1602730717015">
+    <state x="232" y="77" key="Vcs.Push.Dialog.v2" timestamp="1602866232788">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
-    <state x="232" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1602730717015" />
+    <state x="232" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1602866232788" />
     <state x="297" y="153" key="run.anything.popup" timestamp="1602155349800">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
